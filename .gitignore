@@ -121,5 +121,3 @@ Once you've completed all the steps, you can deploy your app to Vercel by follow
 3. Run vercel in your terminal to deploy your app.
 4. Follow the prompts to connect your GitHub repository to Vercel.
 5. Once the deployment is complete, you'll receive a shareable link to your app.
-
-Please note that this is just a high-level overview of the steps, and you may need to modify the code snippets to fit your specific requirements. Additionally, you'll need to make sure that you're complying with all the requirements specified in the task instructions.
